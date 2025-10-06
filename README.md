@@ -20,7 +20,7 @@ About me:
 
 - 🌱 I’m going to be undertaking: **[[Meta Full-Stack Developer Specialization](https://www.coursera.org/specializations/meta-full-stack-developer)]**
 
-- 📫 How to reach me: <!--<a href="mailto:BaileyCockett2003@Gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/baileyc03/)-->
+- 📫 How to reach me: <!-- <a href="mailto:BaileyCockett2003@Gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/baileyc03/) -->
 
 <h2 align="center"> 🛠️ Tools and Technologies 🛠️ </h3>
 <div id = "header" align ="center">
