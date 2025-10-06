@@ -14,7 +14,7 @@
 
 About me:
 
-- 🔭 I’m currently working on: **A FullStack Website for Research Paper Sharing and Simplification Using AI**
+- 🔭 I’m currently working on: **A FullStack Website for Documentation/Research Sharing and Simplification Using AI**
   
 - :computer: My dissertation is: **An Explainable AI Tool for Machine Learning and Data Analytics** 
 
