@@ -10,11 +10,13 @@
 </div>-->
 
 <h1 align="center"> HELLO! </h1>
-<h3 align="center">I'm Joseph - A Budding Software Developer & ML/AI Specialist Studying at Swansea University.</h3>
+<h3 align="center">I'm Joseph - Budding Software Developer & ML/AI Specialist Studying at Swansea University.</h3>
 
 About me:
 
-- 🔭 I’m currently working on: **Creating a FullStack Website for Research Paper Sharing and Simplification Using AI** 
+- 🔭 I’m currently working on: **A FullStack Website for Research Paper Sharing and Simplification Using AI**
+  
+- :computer: My dissertation is: **An Explainable AI Tool for Machine Learning and Data Analytics** 
 
 - ⚡ Fun fact: **I go Scuba Diving and Playing Chess**
 
