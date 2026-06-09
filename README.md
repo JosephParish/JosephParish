@@ -10,7 +10,7 @@
 </div>-->
 
 <h1 align="center"> HELLO! </h1>
-<h3 align="center">I'm Joseph - Budding Software Developer & ML/AI Specialist Studying at Swansea University.</h3>
+<h3 align="center">I'm Joseph - Software Developer (Web/ML/AI) Studying at Swansea University.</h3>
 
 About me:
 
@@ -18,11 +18,11 @@ About me:
   
 - :computer: My dissertation is: **An Explainable AI Tool for Machine Learning and Data Analytics** 
 
-- ⚡ Fun fact: **I go Scuba Diving and Playing Chess**
+- ⚡ Fun fact: **I go Scuba Diving and Love Playing Chess**
 
 - 🌱 I’m going to be undertaking: **[[Meta Full-Stack Developer Specialization](https://www.coursera.org/specializations/meta-full-stack-developer)]**
 
-- 📫 How to reach me: <a href="mailto:2326446@swansea.ac.uk">Email</a>, [LinkedIn](https://www.linkedin.com/in/joseph-parish/)
+- 📫 How to reach me: <a href="mailto:Joseph.Parish.Work@gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/joseph-parish/)
 
 <h2 align="center"> 🛠️ Tools and Technologies 🛠️ </h3>
 <div id = "header" align ="center">
