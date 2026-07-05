@@ -52,7 +52,6 @@ About me:
 <h2 align="center"> 🌿 My Activity 🌿 </h3>
 <div id = "header" align ="center">
   <img src= "https://raw.githubusercontent.com/JosephParish/JosephParish/output/github-contribution-grid-snake-dark.svg"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JosephParish&layout=compact&theme=github_dark"/>
 
  <!--<h2 align="center"> 💬 Languages I Speak / Am Learning 💬 </h3>
 <div id = "header" align ="center">
